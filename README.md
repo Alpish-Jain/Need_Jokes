@@ -1,6 +1,6 @@
 # Read some Jokes!
 
-A new Flutter project.
+In this project i have made a app in which you can read multiple jokes.The jokes that appear on the screen are random and are called via https://official-joke-api.appspot.com/random_ten .Each time you refresh you can see new random jokes.I have made seperate pages for loading screen home screen.Concepts like routing a page from one to another are also used.
 
 ## Getting Started
 
